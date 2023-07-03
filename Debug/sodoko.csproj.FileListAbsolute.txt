@@ -1,5 +1,0 @@
-C:\Users\DELL\Desktop\sodoko\sodoko\obj\Debug\sodoko.csprojResolveAssemblyReference.cache
-C:\Users\DELL\Desktop\sodoko\sodoko\bin\Debug\sodoko.exe
-C:\Users\DELL\Desktop\sodoko\sodoko\bin\Debug\sodoko.pdb
-C:\Users\DELL\Desktop\sodoko\sodoko\obj\Debug\sodoko.exe
-C:\Users\DELL\Desktop\sodoko\sodoko\obj\Debug\sodoko.pdb
